@@ -26,7 +26,7 @@
         
     };
 
-    default_transform: keymap_transform@0 {
+    default_transform: keymap_transform {
         compatible = "zmk,keymap_transform";
         rows = <6>;
         columns = <4>;
